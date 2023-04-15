@@ -164,7 +164,7 @@ main a:hover {
     position: relative;
  }
 
- div.video > if {
+ div.video > iframe {
     position: absolute;
     top: 5%;
     left: 5%;
